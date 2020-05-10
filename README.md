@@ -47,4 +47,6 @@ Start-UDDashboard -Port 10005 -Dashboard (
 )
 
   ```
-  
+  This should give you something looking like:-
+  ![placeholder](https://raw.githubusercontent.com/psDevUK/New-GoogleTable/master/GoogleTable.gif
+"Demonstration")
